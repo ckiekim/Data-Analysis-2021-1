@@ -2,6 +2,7 @@
 samples/
 roadapikey.txt
 kakaomapkey.txt
+chromedriver.exe
 
 # Editors
 .vscode/
